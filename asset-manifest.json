@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactProject/static/css/main.d82aae0c.chunk.css",
+    "main.js": "/ReactProject/static/js/main.e5241cfe.chunk.js",
+    "main.js.map": "/ReactProject/static/js/main.e5241cfe.chunk.js.map",
+    "runtime-main.js": "/ReactProject/static/js/runtime-main.71f4de0d.js",
+    "runtime-main.js.map": "/ReactProject/static/js/runtime-main.71f4de0d.js.map",
+    "static/js/2.716792c0.chunk.js": "/ReactProject/static/js/2.716792c0.chunk.js",
+    "static/js/2.716792c0.chunk.js.map": "/ReactProject/static/js/2.716792c0.chunk.js.map",
+    "index.html": "/ReactProject/index.html",
+    "precache-manifest.607b453c5c9a91c8fdf50a2797520dab.js": "/ReactProject/precache-manifest.607b453c5c9a91c8fdf50a2797520dab.js",
+    "service-worker.js": "/ReactProject/service-worker.js",
+    "static/css/main.d82aae0c.chunk.css.map": "/ReactProject/static/css/main.d82aae0c.chunk.css.map",
+    "static/js/2.716792c0.chunk.js.LICENSE": "/ReactProject/static/js/2.716792c0.chunk.js.LICENSE",
+    "static/media/App.css": "/ReactProject/static/media/groovy.201b3a3c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71f4de0d.js",
+    "static/js/2.716792c0.chunk.js",
+    "static/css/main.d82aae0c.chunk.css",
+    "static/js/main.e5241cfe.chunk.js"
+  ]
+}
